@@ -1,0 +1,16 @@
+1.================
+Execute the original code on original data
+- understand the structure of the file. what is the frequency and Ts, T, Fs etc...
+- understand the parts of the code. Which part is doing what ? indicate which equation is doing what?
+
+
+
+- indicate that you have assumed which constants as it? fd, Ts, Fs, ....
+
+2.================
+
+What is the difference of new data wrt old one?
+What is Fs, Ts etc....
+Assumming the same constants, tried to debug the errors and fixed the dimensions of the vectors manually.
+
+
